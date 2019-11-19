@@ -1,4 +1,4 @@
-# kubernetesserviceswithistio
+# kubernetes services with istio
 istio service example
 
 this is basic example of istio service mesh entire arch build on gcloud.
